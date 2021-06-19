@@ -64,7 +64,9 @@
 		</div>
 	</div>
 
-
+	<footer class="text-center">
+		Developed By Jahid Momin &copy; ,2021
+	</footer>
 </body>
 </html>
 
